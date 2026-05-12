@@ -63,5 +63,19 @@ System that communicates using natural language.
 This project helped improve:
 - AI knowledge
 - UX understanding
+
+---
+
+## 📸 NotebookLM Study Process
+
+### Prompt and AI Response
+
+![NotebookLM Screenshot](notebooklm-print1.png)
+
+---
+
+### Mind Map and Knowledge Organization
+
+![NotebookLM Screenshot](notebooklm-print2.png)
 - Prompt Engineering
 - Technical documentation skills
