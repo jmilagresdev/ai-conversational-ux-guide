@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 #  AI Conversational UX Guide
 
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
